@@ -1,1 +1,6 @@
-# Data-Intepretation-
+# Data-Intepretation case study
+
+This case study focuses on analyzing the monthly sales performance of 15 sales representatives across four key regions: North, South, East, and West. Each sales rep was given a specific sales target for the month, and their actual sales were recorded to evaluate individual performance. Key performance indicators such as target achievement percentage, bonus eligibility, and regional contributions were calculated to assess overall productivity.
+The goal of this case study is to highlight which representatives met or exceeded their targets, how bonuses were distributed based on performance, and to identify trends in performance across different regions. A threshold of 100% target achievement was used to determine bonus eligibility. Reps achieving 100% or more qualified for a performance-based bonus calculated as 10% of their sales.
+Using Excel formulas, we derived insights such as the top performer, total bonuses awarded, average achievement rates, and comparison across regions. These insights provide valuable direction for future incentive programs and sales strategy adjustments.
+By presenting the data in a structured format and applying key analytical functions, this case study demonstrates how businesses can use data to reward success, support underperformers, and drive better sales outcomes through informed decision-making.
